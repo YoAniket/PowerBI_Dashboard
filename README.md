@@ -24,7 +24,8 @@ This project was a journey through key Power BI features. Here's a look at what 
 This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.
 
 ## Page 1: High-Level Market View 
-	![Dashboard Page 1](/Images/High_Level_View_1.png)
+<img width="1326" height="727" alt="High_Level_View_1" src="https://github.com/user-attachments/assets/7c7e53b4-118b-4214-935c-0ac88987a4d6" />
+
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
